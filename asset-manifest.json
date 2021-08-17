@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-easysocial-Projects/static/css/main.c33a5adc.chunk.css",
+    "main.js": "/React-easysocial-Projects/static/js/main.5ff07508.chunk.js",
+    "main.js.map": "/React-easysocial-Projects/static/js/main.5ff07508.chunk.js.map",
+    "runtime-main.js": "/React-easysocial-Projects/static/js/runtime-main.88632fe2.js",
+    "runtime-main.js.map": "/React-easysocial-Projects/static/js/runtime-main.88632fe2.js.map",
+    "static/js/2.d2234f59.chunk.js": "/React-easysocial-Projects/static/js/2.d2234f59.chunk.js",
+    "static/js/2.d2234f59.chunk.js.map": "/React-easysocial-Projects/static/js/2.d2234f59.chunk.js.map",
+    "index.html": "/React-easysocial-Projects/index.html",
+    "static/css/main.c33a5adc.chunk.css.map": "/React-easysocial-Projects/static/css/main.c33a5adc.chunk.css.map",
+    "static/js/2.d2234f59.chunk.js.LICENSE.txt": "/React-easysocial-Projects/static/js/2.d2234f59.chunk.js.LICENSE.txt",
+    "static/media/login2.ac77eed8.png": "/React-easysocial-Projects/static/media/login2.ac77eed8.png",
+    "static/media/people.b8196a31.png": "/React-easysocial-Projects/static/media/people.b8196a31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88632fe2.js",
+    "static/js/2.d2234f59.chunk.js",
+    "static/css/main.c33a5adc.chunk.css",
+    "static/js/main.5ff07508.chunk.js"
+  ]
+}
